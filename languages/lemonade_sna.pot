@@ -1,0 +1,1341 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-10 16:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: lemonade_sna_core_pinterest_actions.php:302
+#: pinterest/lemonade_sna_pinterest_actions.php:597
+#: pinterest/lemonade_sna_pinterest_actions.php:660
+#: pinterest/lemonade_sna_pinterest_actions.php:739
+#: pinterest/lemonade_sna_pinterest_actions.php:1097
+#: pinterest/lemonade_sna_pinterest_actions.php:1494
+msgid "You have not capability to manage these settings."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_actions.php:315
+msgid "Template was deteled."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_actions.php:482
+msgid "Lemonade SNA custom WP Cron interval"
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:225
+msgid "Url of the post."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:226
+msgid "Slug of the posts URL."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:227
+msgid "Post ID."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:228
+msgid "Post title."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:229
+msgid "Processed post content."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:230
+msgid ""
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:231
+msgid "Processed excerpt of the post."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:232
+msgid "Url to featured image."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:233
+msgid "Tags of the post."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:234
+msgid "Categories of the post."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:235
+msgid "Post author display name."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:236
+msgid "Post author login."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:237
+msgid "Post author email."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:238
+msgid "Date when the post was published converted to the site local timezone."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:239
+msgid "Date when the post was published converted to GMT timezone."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:240
+msgid ""
+"Date when the post was last modified converted to the site local timezone."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:241
+msgid "Date when the post was last modified converted to GMT timezone."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:242
+msgid "Post type."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:243
+msgid "Post mime type."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:244
+msgid "Number of comments."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:245
+msgid "Site name."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:246
+msgid "Site url."
+msgstr ""
+
+#: lemonade_sna_core_pinterest_functions.php:247
+msgid "Site description."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:124
+msgid ""
+"The WP Cron Job wasn't done due to an error in Lemonade Autoposter Template"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:406
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1543
+#: pinterest/tiles/lemonade_sna_pinterest_streamer.php:96
+msgid "will be published"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:407
+#: pinterest/tiles/lemonade_sna_pinterest_streamer.php:96
+msgid "was published"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:591
+#: pinterest/lemonade_sna_pinterest_actions.php:654
+msgid "Nonce is invalid."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:616
+#: pinterest/lemonade_sna_pinterest_actions.php:689
+msgid "Settings were updated."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:669
+msgid "App ID should be numbers only."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:679
+msgid "App secret should be numbers and letters only."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:733
+#: pinterest/lemonade_sna_pinterest_actions.php:1091
+msgid "Nonce was not verified."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:751
+#: pinterest/lemonade_sna_pinterest_actions.php:1120
+msgid "Template name can not be empty."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:759
+msgid ""
+"You are not allowed to create more than 2 templates with the free version of "
+"plugin."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:768
+#: pinterest/lemonade_sna_pinterest_actions.php:773
+#: pinterest/lemonade_sna_pinterest_actions.php:1139
+msgid "Template name should be unique. This name already exists."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:996
+#: pinterest/lemonade_sna_pinterest_actions.php:1212
+msgid "Template was updated."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:1004
+#: pinterest/lemonade_sna_pinterest_actions.php:1039
+msgid "A line was not updated. Please, try again."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:1007
+msgid "There was a mistake during template updating."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:1031
+#: pinterest/lemonade_sna_pinterest_actions.php:1214
+msgid "Template was created."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:1043
+msgid "There was an mistake during template creating."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:1112
+msgid ""
+"You are not allowed to use more than 2 templates with the free version of "
+"plugin."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:1134
+msgid ""
+"Template name should be unique. This name is already used for another "
+"template."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:1322
+#: pinterest/lemonade_sna_pinterest_dashboard.php:752
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1650
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1681
+#: pinterest/tiles/lemonade_sna_pinterest_streamer.php:31
+msgid "by"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_actions.php:1512
+msgid "Template was deleted"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:58
+msgid "Lemonade SNA Pinterest Settings - Lemonade SNA Pinterest"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:84
+msgid "User Privileges"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:86
+msgid "Who can see Lemonade SNA admin dashboard?"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:87
+#: pinterest/lemonade_sna_pinterest_dashboard.php:100
+#: pinterest/lemonade_sna_pinterest_dashboard.php:113
+#: pinterest/lemonade_sna_pinterest_dashboard.php:126
+msgid "Select Roles..."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:99
+msgid "Who can set up Pinterest API?"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:112
+msgid "Who can set up Pinterest Pin templates?"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:125
+msgid "Who can set up Autoposter templates?"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:141
+msgid "Reports Settings"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:143
+msgid "Swith on/off reports?"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:145
+#: pinterest/lemonade_sna_pinterest_dashboard.php:557
+msgid "Off"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:150
+#: pinterest/lemonade_sna_pinterest_dashboard.php:562
+msgid "On"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:152
+msgid ""
+"If you switch on the option, reports will be written down to "
+"pinterest/lemonade_sna_pinterest_log.log file."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:175
+msgid "Save"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:194
+msgid "API Settings - Lemonade SNA Pinterest"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:219
+msgid "Help"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:222
+msgid "What is Pinterest API?"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:223
+msgid ""
+"Pinterest API is a set of key phrases (combinations of symbols), which "
+"allows to indentify you and confirm your ownership for a Pinterest account "
+"when the programm makes some requests to Pinterest social network."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:224
+msgid ""
+"A process of authorization (getting API keys) needs two steps. First you get "
+"your App ID and App secret key, second you authorize for to get an Access "
+"token."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:225
+msgid "How to get App ID and App secret?"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:226
+msgid ""
+"For to get your App ID and App secret you have to create a Pinterest "
+"application."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:228
+msgid "Log into your Pinterest account."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:229
+msgid "Navigate to"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:229
+msgid "Pinterest developers"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:230
+msgid "Click to the Apps link in the main menu."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:231
+msgid "Push Create app button."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:232
+msgid "Fill fields in the form of a new application and press Create app."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:233
+msgid ""
+"Now you have a screen with App ID and App secret codes. Scroll the screen "
+"down."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:234
+msgid ""
+"In the Platform section set up Site URL and Redirect URIs. For the site url "
+"put your current site link in. In the field Redirect URIs put link to the "
+"current Wordpress admin page (where you are reading all this stuff now), "
+"starting with \"https://\". Press Enter and after that do not forget to save "
+"changes."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:236
+msgid "Now you have your Pinterest app setted up."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:237
+msgid ""
+"Put App ID and App secret into the fields of the form below and save changes."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:238
+msgid "How to get Access Token?"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:239
+msgid ""
+"If your App ID and App secret are setted up properly, you will see the \"Now "
+"you can authorize Pinterest\" link below the API settings form."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:240
+msgid "Click the link and accept the query for permissions from your App."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:241
+msgid ""
+"If everything is O`k, you will be redirected to the same admin page, below "
+"the link there will be an Access token."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:242
+msgid ""
+"Copy the Access token and paste it into the field of the form with API "
+"settings. Save changes."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:243
+msgid ""
+"If your API is setted up, in the section Test your API you will see some "
+"information about your Pinterest profile."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:254
+msgid ""
+"Please, read the Help section above or the documentation for to know how to "
+"set up Pinterest API."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:259
+msgid "App ID"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:261
+msgid "Insert here App ID..."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:261
+msgid "Field can contain numbers only."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:264
+msgid "Read about how to get App ID in the Help section."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:266
+msgid "App secret"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:268
+msgid "Insert here App Secret..."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:268
+msgid "Field can contain numbers and letters only."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:271
+msgid "Read about how to get App secret in the Help section."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:273
+msgid "Access Token"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:275
+msgid "Insert here Access Token..."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:278
+msgid "Read about how to get Access Token in the Help section."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:282
+msgid "Save Settings"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:294
+msgid "Test your API"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:334
+msgid "Pinterest Pin Settings - Lemonade SNA Pinterest"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:359
+msgid "List of shortcodes"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:420
+msgid "Create Pin Template"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:427
+#: pinterest/lemonade_sna_pinterest_dashboard.php:875
+msgid "Create a name for a template"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:428
+#: pinterest/lemonade_sna_pinterest_dashboard.php:876
+msgid "Create a name for template"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:428
+#: pinterest/lemonade_sna_pinterest_dashboard.php:876
+msgid "The field can not be empty"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:433
+msgid "Create Template"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:436
+#: pinterest/lemonade_sna_pinterest_dashboard.php:884
+msgid "Choose Post Types"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:457
+#: pinterest/lemonade_sna_pinterest_dashboard.php:486
+msgid "Is being used by another template"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:468
+msgid "Select Categories..."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:519
+msgid "Template settings"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:521
+msgid "Image url"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:526
+msgid "The link to the image that you want to Pin. Recommended shortcodes:"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:528
+msgid "Link"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:533
+msgid ""
+"The URL the Pin will link to when you click through. Recommended shortcodes:"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:535
+msgid "Note"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:540
+msgid ""
+"The Pin`s description. Use all available shortcodes. If you would like to "
+"get hashtags just put \"#\" before a shortcode. Recommended shortcodes:"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:541
+msgid "Shortcodes settings"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:542
+#: pinterest/lemonade_sna_pinterest_dashboard.php:666
+msgid "Separator"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:544
+msgid "Tags separator"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:546
+msgid ""
+"Which separator to use if shortcodes like %tags%, %categories%, etc. contain "
+"more than one item."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:547
+msgid "Announce characters limit"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:549
+msgid "Characters limit"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:551
+msgid ""
+"Limit of characters after which announce (if &lt;!--more--&gt tag was not "
+"found) should be cuted. The plugin would try to find the last whole word "
+"after which to insert a break. Leave empty if do not want to cut (Pinterest "
+"will use the maximum possible amount of symbols)."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:552
+msgid "Split words"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:564
+msgid ""
+"If \"Split words\" option is switched off, then content for such shortcodes, "
+"like \"%tags%\" or \"%categories%\", which has more than one word, will be "
+"like \"OneSingleBigTagFromSeveralWords\"."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:583
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1500
+msgid "Save template"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:585
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1507
+msgid "Cancel edit"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:594
+msgid "Test template"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:597
+msgid "Insert ID"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:599
+msgid "To test a template insert here an ID of any publication."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:601
+#: pinterest/lemonade_sna_pinterest_dashboard.php:653
+msgid "Pin image"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:604
+#: pinterest/lemonade_sna_pinterest_dashboard.php:657
+msgid "Pin link"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:607
+#: pinterest/lemonade_sna_pinterest_dashboard.php:661
+msgid "Pin note"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:631
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1584
+msgid "List of templates"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:648
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1605
+msgid "Delete template"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:678
+msgid "Text limit"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:688
+msgid "Split"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:693
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1622
+msgid "ON"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:693
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1617
+msgid "OFF"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:700
+msgid "Post types"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:752
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1650
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1681
+msgid "at"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:752
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1650
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1681
+msgid "Site local time"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:774
+msgid "No Pin templates were found!"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:798
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1745
+msgid "Template delete"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:800
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1747
+msgid "You are going to delete "
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:800
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1747
+msgid ""
+"All the data will be removed. After that you will not be able to restore the "
+"template."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:803
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1750
+msgid "Delete"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:804
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1751
+msgid "Cancel"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:808
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1755
+msgid "Template delete error"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:810
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1757
+msgid "An error occured while deleting the template"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:832
+msgid "Pinterest Autoposter Settings - Lemonade SNA Pinterest"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:865
+msgid "Edit Autoposter Template"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:867
+msgid "Create Autoposter Template"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:881
+msgid "Filter posts"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:886
+#: pinterest/lemonade_sna_pinterest_dashboard.php:919
+#: pinterest/lemonade_sna_pinterest_dashboard.php:950
+#: pinterest/lemonade_sna_pinterest_dashboard.php:995
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1040
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1077
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1129
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1191
+msgid "Exclude"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:892
+#: pinterest/lemonade_sna_pinterest_dashboard.php:925
+#: pinterest/lemonade_sna_pinterest_dashboard.php:956
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1001
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1046
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1082
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1134
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1197
+msgid "Include"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:916
+#: pinterest/lemonade_sna_pinterest_dashboard.php:947
+#: pinterest/lemonade_sna_pinterest_dashboard.php:980
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1025
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1072
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1093
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1141
+msgid "Leave the field above empty for to include all posts."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:917
+msgid "Choose Post Formats"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:948
+msgid "Choose Categories"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:961
+msgid "Select Post Categories..."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:981
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1026
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1094
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1143
+msgid "Relation: "
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:985
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1030
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1098
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1117
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1147
+msgid "OR"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:990
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1035
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1103
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1112
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1152
+msgid "AND"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:992
+msgid ""
+"Choose relation AND if you want to filter only that posts which fit all "
+"categories from a list, leave relation OR if you want to get posts which fit "
+"at least one category from a list."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:993
+msgid "Choose Tags"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1006
+msgid "Select Post Tags..."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1037
+msgid ""
+"Choose relation AND if you want to filter only that posts which fit all tags "
+"from a list, leave relation OR if you want to get posts which fit at least "
+"one tag from a list."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1038
+msgid "Choose Authors"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1051
+msgid "Select Post Authors..."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1073
+msgid "Choose Custom Meta"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1074
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1107
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1285
+msgid "This filter is available only with PRO version."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1105
+msgid ""
+"Choose relation AND if you want to filter only that posts which fit all "
+"custom metas from a list, leave relation OR if you want to get posts which "
+"fit at least one custom meta from a list."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1106
+msgid "Choose Custom Taxonomies"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1108
+msgid "Relation"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1119
+msgid ""
+"Check OR if you want to include all posts which fit at least on of the "
+"conditions under to the filter or AND - for to include only that posts which "
+"fit all the conditions under"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1136
+msgid "Select"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1155
+msgid "Choose relation AND if you want to filter only that posts which fit all"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1155
+msgid ""
+"from a list, leave relation OR if you want to get posts which fit at least "
+"one"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1155
+msgid "from a list."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1170
+msgid "Dates"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1171
+msgid "From: "
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1179
+msgid "to: "
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1188
+msgid "Choose dates range if you need or leave the fields above empty."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1189
+msgid "Posts without featured images"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1202
+msgid ""
+"If a post has no featured image, you can exclude it from list or set up a "
+"default image for it."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1203
+msgid "Duplicate posts"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1204
+msgid ""
+"It happens that a publication is posted on the same Pinterest board several "
+"times. What should Autoposter do if it meets a post which is already "
+"published on a board?"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1208
+msgid "Do not post"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1213
+msgid "Post nevertheless"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1215
+msgid "Choose an option."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1244
+msgid "WP Cron Schedule"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1247
+msgid "Frequency"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1248
+msgid "Do not publish more than one post every"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1253
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1467
+msgid "Days should be positive integer."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1255
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1469
+msgid "days"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1257
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1471
+msgid "Hours should be positive integer not more than 24."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1259
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1473
+msgid "hours"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1261
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1475
+msgid "Minutes should be positive integer not more than 60."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1263
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1477
+msgid "minutes"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1264
+msgid "Low frequency is recommended for busy sites."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1265
+msgid "Post at special time"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1270
+msgid "Time zone"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1283
+msgid "All dates and time will be taken for given timezone."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1287
+msgid "From"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1292
+msgid "to"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1298
+msgid "Choose time interval when to make posting."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1303
+msgid "On each day"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1306
+msgid "Posting will be made on each day."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1311
+msgid "On these weekdays"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1314
+msgid "Select Days..."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1319
+msgid "Posting will be made only on these weekdays."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1324
+msgid "On these dates"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1332
+msgid "Posting will be made only on chosen dates."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1333
+msgid "Day limits"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1334
+msgid "Do not publish more than"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1336
+msgid "Number of posts should be positive integer."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1339
+msgid "posts per day"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1340
+msgid "Autoposter will stop when it reaches a day limit."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1340
+msgid ""
+"Publications which are over day limit will be posted on the next available "
+"day."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1341
+#: pinterest/tiles/lemonade_sna_test_pinterest_api.php:79
+msgid "Boards"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1342
+msgid ""
+"This free version of plugin allows to choose only one board. With PRO "
+"version you can choose unlimited number of boards."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1352
+msgid "Select Boards..."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1353
+msgid "Select at least one board where to publish."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1381
+msgid ""
+"Select boards where you would like to publish posts. It is not recommended "
+"to use more than 2-3."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1382
+msgid "Order to publish"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1387
+msgid "First new, then old"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1390
+msgid "Autoposter will every time publish the oldest post in a list"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1395
+msgid "First old, then new"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1398
+msgid "Autoposter will every time choose the newest post in a list to publish"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1403
+msgid "Random"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1406
+msgid "Autoposter will publish posts in random order"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1407
+msgid "Simultaneous posting"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1408
+msgid ""
+"If you have several Pinterest boards in a list, Autoposter can work with "
+"them on different ways."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1413
+msgid "Post simultaneously"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1416
+msgid ""
+"Publication will be posted on all boards from a list simultaneously. For "
+"example, you want to pin a post on boards 1, 2, 3. Autoposter will send it "
+"to these boards at one time."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1421
+msgid "Post step-by-step"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1424
+msgid ""
+"Autoposter will pin a publication on one board each time. For example, you "
+"want to publish a post on boards 1, 2, 3. First time autoposter will send it "
+"to board 1, next time - to board 2 and the last time - to board 3."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1429
+msgid "Randomize boards"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1432
+msgid ""
+"Each time Autoposter will choose just one board from a list which to publish "
+"on. Next time it will go to next post from a list. Finelly all publications "
+"will be pinned on all boards. For example, you want to pin a post on boards "
+"1, 2, 3. First time Autoposter will pin a post to board 2. Next time when it "
+"meets with the same publication it will post it on board 1 and etc."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1433
+msgid "When a cycle is finished"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1438
+msgid "Wait for new posts"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1441
+msgid ""
+"Autoposter will continue to work as usual only when there will be new "
+"publications on a list"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1446
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1503
+msgid "Start new cycle"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1449
+msgid "Some posts could be published several times in a loop"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1454
+msgid "Finish autoposter"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1457
+msgid "Autoposter will be deactivated"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1458
+msgid "Template update"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1459
+msgid "Once per"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1478
+msgid ""
+"How often to make scanning for to add new posts on a list to publish. Low "
+"frequency is recommended for busy sites."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1515
+msgid "Posts to be published"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1543
+msgid "Post"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1543
+#: pinterest/tiles/lemonade_sna_pinterest_streamer.php:97
+msgid "on board"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1545
+#: pinterest/tiles/lemonade_sna_pinterest_streamer.php:104
+msgid "Post type"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1557
+msgid "There are no posts to be published at the moment"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1679
+msgid "Next update:"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1704
+msgid "No templates were found."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1727
+msgid "Template is active"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1729
+msgid ""
+"Template was activated. New WP Cron job will be running after you renew any "
+"page on the site."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1733
+msgid "Template is inactive"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1735
+msgid ""
+"Template was deactivated. WP Cron job will be removed from schedule after "
+"you renew any page on the site."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1739
+msgid "An error occured"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1741
+msgid "Template couldn't be activated/deactivated due to an error."
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1777
+msgid "Pinterest Autoposter Live Stream - Lemonade SNA Pinterest"
+msgstr ""
+
+#: pinterest/lemonade_sna_pinterest_dashboard.php:1835
+msgid "There are no templates active"
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_get_pinterest_access_token.php:28
+msgid "Now you can authorize Pinterest"
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_get_pinterest_access_token.php:31
+msgid "Click the link above and accept permissions from an application."
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_get_pinterest_access_token.php:40
+msgid "Your access token:"
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_get_pinterest_access_token.php:43
+msgid ""
+"Please, copy and paste the access token into the Access Token field in the "
+"form above and save settings."
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_pinterest_show_boards.php:41
+msgid "Please, check Internet connection."
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_pinterest_streamer.php:94
+msgid "Post ID:"
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_pinterest_streamer.php:101
+msgid "Next to be posted..."
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_pinterest_streamer.php:107
+msgid "Day limit"
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_pinterest_streamer.php:109
+msgid "Day limit reached"
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_pinterest_streamer.php:121
+msgid "Waiting for new posts"
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_pinterest_streamer.php:124
+msgid "Template will be deactivated"
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_pinterest_streamer.php:127
+msgid "New cycle will be started"
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_test_pinterest_api.php:40
+msgid "Please, check your Internet connection."
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_test_pinterest_api.php:46
+msgid "Congratulations! Your Pinterest API is setted up."
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_test_pinterest_api.php:83
+msgid "Following"
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_test_pinterest_api.php:87
+msgid "Followers"
+msgstr ""
+
+#: pinterest/tiles/lemonade_sna_test_pinterest_api.php:97
+msgid "Your Pinterest API is not setted up."
+msgstr ""
+
+#. Name of the plugin
+msgid "Lemonade SNA Pinterest"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Lemonade Social Networks Autoposter: Pinterest. It makes auto-posting to "
+"Pinterest social network using WP Cron functionality. It allows to create "
+"simultaneous streams of re-posting to Pinterest, filter publications which "
+"will be included to a stream, create templates for pins and etc."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "www.lemonade-coding.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Lemonade Coding Studio"
+msgstr ""

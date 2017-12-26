@@ -1,0 +1,63 @@
+.lsna-pinterest-test {
+	display: block;
+	margin-top: 20px;
+}
+
+.lsna-pinterest-profile {
+	background: #fff;
+	border-radius: 7px;
+	float: left;
+	margin: 0;
+	max-width: 290px;
+	overflow: hidden;
+	text-align: center;
+}
+
+.lsna-profile-image {
+	display: block;
+	line-height: 1;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.lsna-profile-content {
+	display: block;
+	padding: 0 15px;
+}
+
+.lsna-profile-content h4 {
+	font-weight: bold;
+}
+
+.lsna-pinterest-profile-footer {
+	border-top: 1px solid #e2e2e2;
+	display: block;
+	margin-top: 25px;
+}
+
+.lsna-pinterest-profile-footer > div {
+	border-left: 1px solid #e2e2e2;
+	display: inline-block;
+	float: left;
+	letter-spacing: -1px;
+	padding: 10px 5px;
+	-webkit-box-sizing: border-box;	
+	box-sizing: border-box;	
+	width: 33%; 
+}
+
+.lsna-pinterest-profile-footer > div:first-child {
+	border-left: none;
+}
+
+.lsna-pinterest-profile-footer > div > span {
+	font-weight: bold;
+	line-height: 2;
+}
+
+#lsna-pin-note {
+	border: 1px solid #444;
+	display: block;
+	min-height: 100px;
+	width: 100%;
+}
