@@ -22,3 +22,21 @@ It is possible to set up templates for Autoposter, filtering posts which will be
 * Live Stream which represents how the Autoposter works.
 * Highly customizable Pin templates: feel yourself free to set up any image, description and link for a Pin.
 * Default images for Pins supported.
+
+## Documentation
+
+The documentation for the plugin can be [downloaded here](http://lemonade-coding.com/lemonade-sna-pinterest-documentation).
+
+## Live Demo 
+
+Live demo (of PRO version) is available on the official site.
+
+Link: http://www.lemonade-coding.com/wp-admin
+Login: lemonade_demo
+Password: lemonade_demo
+
+## Credits 
+
+Thank you to @olton/Metro-UI-CSS for their Metro UI Css framework which was used by project for to style plugin's pages.
+
+The plugin uses a nice PHP wrapper for the official Pinterest API created by @dirkgroenen/Pinterest-API-PHP.
